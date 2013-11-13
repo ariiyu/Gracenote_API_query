@@ -1,0 +1,1285 @@
+
+genre: POP
+era: 1980’s
+retuen_count: 50
+
+query: 
+https://staging.web.cddbp.net/webapi/json/1.0/radio/create?seed=genre_24046;era_29484&return_count=50&client=xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx&user=yyyyyyyyyyyyyyyyyyyyy-yyyyyyyyyyyyyyyyyy
+ 
+
+result:
+
+{
+    "RESPONSES" : {
+        "RESPONSE":
+        [
+            {
+                "_STATUS" : "OK",
+                "RADIO":
+                [
+                    {
+                        "ID":
+                        [
+                            {
+                                "_textvalue" : "605b6fedfc4b4333b05b1962ad4aea56"
+                            }
+                        ]
+                    }
+                ],
+                "ALBUM":
+                [
+                    {
+                        "_ORD" : "1",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "2903450-86939067EDA8906376DAAFA3870225A2"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Eric Clapton"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Unplugged"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "14"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "1"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "2903451-08CF51DBA91E65306252C2B7A8DFB366"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Signe"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "2",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "2974293-B235F8592818162E0D6CEE3F804F21EA"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Jewel"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Pieces Of You"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "14"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "14"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "2974307-E752514DF401F6FA534A3A27318396AB"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Amen"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "3",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7284164-ACE9A3011AAA7DF5DA3743FD0AD50C30"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Elton John"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Made In England"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "11"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7284175-F7738A0BCAC4CBDD275437B76B442666"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Blessed"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "4",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7339238-5D23D1D51E0794F0B11899C2A675F5BE"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Chris Rea"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Auberge"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "2"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7339240-999471A80C2CBDB37674D74F66464078"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Gone Fishing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "5",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4346322-4E9FE050126C3A14C4AABF5DD9C71202"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Sarah McLachlan"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Mirrorball"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "14"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "12"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4346334-B27CB7D9CE24ACC6D4BAA7E26F9D1976"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Ice Cream"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "6",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "3791871-95A72306015FBBB2B0706C09E92621F4"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "John Lennon"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Lennon Legend: The Very Best Of John Lennon"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "20"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "16"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "3791887-5D956A04C0AA9ED69AB9DFFA97875DF1"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Nobody Told Me"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "7",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4902251-7EB9AF76C437A7675EAE426CC8A224AD"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Madonna"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Erotica"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "14"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "6"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4902257-E1563D722D72376A50BE2803BADA1EB7"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Bad Girl"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "8",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7305484-5127C7445C272811A3AA099DE117B927"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Billy Joel"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Storm Front"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "6"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7305490-08BDD6DE27DF41E2603A8E1F10703716"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Storm Front"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "9",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "2911649-B8E7433539E94669EB154B736D5F3588"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Phil Collins"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Both Sides"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "11"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "2911660-2B81AE58FF095611E1C8FB0D1D3DC53D"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Please Come Out Tonight"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "10",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4246665-9F370E25C6D36ECB55409B95340F5176"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Sting"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Mercury Falling"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "6"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4246671-C336EA7560B65B18D701F01F85FBC032"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "I'm So Happy I Can't Stop Crying"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "11",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "5130003-FCE4DD8D71518DD9951E724B1A827E6C"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Celine Dion"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "The Colour Of My Love"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "14"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "10"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "5130013-EC15A8776E1F759CE6FC2CD6D3896649"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Refuse To Dance"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "12",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7907631-18443EDE9C8E73046789500ECD5B5F6C"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Spice Girls"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Spiceworld"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "1"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7907632-0A0BA8EA5F8FB2029AD0F42D0C75364B"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Spice Up Your Life"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "13",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "8088556-68F1A6C4F49CF5C9A3A29AA3331DD709"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Barenaked Ladies"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Gordon"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "15"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "13"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "8088569-B3C1F28CE1B3B08C2599931035477828"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "The Flag"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "14",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4223658-820409ED4676C6B75970F1301BCAA5D5"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Paul Simon"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Rhythm Of The Saints"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "4"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4223662-669A09B50AC8EA98E0BE63E3E2746FA9"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Proof"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "15",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7337947-DF62B8ACE9BDA56727D99B7023F43991"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "George Michael"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Listen Without Prejudice"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "3"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7337950-8D12F5AB4F922FE9F1EBFE2D82433EE2"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "They Won't Go When I Go"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "16",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "2951821-EB3A64D99C66F17D318A5A5AE8B5A4A6"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Natalie Merchant"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Tigerlily"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "3"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "2951824-50F6F41488748739D713CBC8B20D732F"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Beloved Wife"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "17",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7356882-166DF52E17119EC8BC097650456694B8"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Bette Midler"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Bette Of Roses"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "4"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7356886-A3EB2F455F9F48BE05B9CC5E6740BE99"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "To Comfort You"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "18",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "6369260-5D0983D8A993A0F6D7A56771803DBA08"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Robbie Williams"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Life Thru A Lens"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "7"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "6369267-C7A7BF5F23D509C8D86B2DDFD93519C6"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "One Of God's Better People"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "19",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7582079-EF18A8211B3E1FE28D0711CC613A8FAD"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Backstreet Boys"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Backstreet Boys"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "12"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "6"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7582085-8A3B110A0ED91D00800D4127B20275FD"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Anywhere For You"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "20",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4296596-F1EF0E032BC8DE1D7A34D16997E632EF"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "10,000 Maniacs"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Our Time in Eden"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "13"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "3"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4296599-EB80D32DA878F801E20E5EE382A928B8"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Eden"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "21",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "6659010-0C5900C6DD60C49917812A00F2B0DFA3"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Savage Garden"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Affirmation"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "12"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "4"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "6659014-34E2DD3A78A4D809CB84D8A10C69E1F7"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "The Best Thing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "22",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "2975298-2AA93D07A223AF11071BD4C38B31D489"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Barbra Streisand"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Higher Ground"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "12"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "5"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "2975303-14E9F50412B9EB6414A36D655E1C29AD"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "On Holy Ground"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "23",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4939583-F67C6737A7F17228826F0D53C4F4FC4D"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Sheryl Crow"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Tuesday Night Music Club"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "1"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4939584-90E524B6D06C786CFC51E2C9B1F81503"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Run, Baby, Run"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "24",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "7237049-61DDB4B7E98F984D2EDDE07C486A4292"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Ace Of Base"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "The Sign"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "12"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "10"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "7237059-7A20AF570833AD52C0930641FC3694E7"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Voulez-Vous Danser"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "25",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "4939718-D8CCD86AD4E8467048164091F47B5F3D"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Annie Lennox"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Diva"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "11"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "7"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "4939725-9C3D10629C0344E4671E7A8017B0F81C"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Little Bird"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

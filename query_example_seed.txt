@@ -1,0 +1,284 @@
+seed: Perfume
+return_count: 50
+
+qyery:
+https://staging.web.cddbp.net/webapi/json/1.0/radio/create?seed&return_count50=text_artist_perfume&client=&client=xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx&user=yyyyyyyyyyyyyyyyyyyyy-yyyyyyyyyyyyyyyyyy
+
+
+
+result:
+
+{
+    "RESPONSES" : {
+        "RESPONSE":
+        [
+            {
+                "_STATUS" : "OK",
+                "RADIO":
+                [
+                    {
+                        "ID":
+                        [
+                            {
+                                "_textvalue" : "468bcacad61f5cbbf9ef937de22f8cc9"
+                            }
+                        ]
+                    }
+                ],
+                "ALBUM":
+                [
+                    {
+                        "_ORD" : "1",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "165922296-AE00B42AFC49383EC61EB639455F09BA"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Q;indivi"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "philharmonique; [Disc 2]"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "5"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "4"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "165922300-51F916C0A359885AFFD4515972BCB772"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Starting Over (Acoustic ver.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "2",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "168864531-DE9D699F9217DA6FD08F65DC098ADEA4"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "capsule"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "MORE! MORE! MORE!"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "10"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "3"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "168864534-EE9BA96DE20ED7F16C4D6FB2E8F8C541"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "the Time is Now"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "3",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "142691960-63861E96AC57826FD49A4532F963EAE4"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "MiM"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "Face To Face"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "9"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "3"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "142691963-EB571AE74B4F55539A5140C61E6CD8E0"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "life"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "4",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "110503502-0C53C18F242F9DAF1BF98491A399E845"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "PLUS-TECH SQUEEZE BOX"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "CARTOOOM! (+3 bonus tracks)"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "16"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "8"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "110503510-0478C5C1D1FDF3265F061748D380437D"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "THE mARTIN SHOW!!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "_ORD" : "5",
+                        "GN_ID":
+                        [
+                            {
+                                "_textvalue" : "123945306-A5D521B97C51941DE0B179D763AC838E"
+                            }
+                        ],
+                        "ARTIST":
+                        [
+                            {
+                                "_textvalue" : "Fantastic Plastic Machine"
+                            }
+                        ],
+                        "TITLE":
+                        [
+                            {
+                                "_textvalue" : "FPMB [Disc 1]"
+                            }
+                        ],
+                        "TRACK_COUNT":
+                        [
+                            {
+                                "_textvalue" : "16"
+                            }
+                        ],
+                        "TRACK":
+                        [
+                            {
+                                "TRACK_NUM":
+                                [
+                                    {
+                                        "_textvalue" : "11"
+                                    }
+                                ],
+                                "GN_ID":
+                                [
+                                    {
+                                        "_textvalue" : "123945317-FB102B4C41A6E8036DC093711001C19C"
+                                    }
+                                ],
+                                "TITLE":
+                                [
+                                    {
+                                        "_textvalue" : "Tell Me (Bossa Version)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

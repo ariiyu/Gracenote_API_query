@@ -1,0 +1,53 @@
+クエリ 年代
+https://staging.web.cddbp.net/webapi/json/1.0/radio/fieldvalues?fieldname=RADIOERA&client=xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&user=yyyyyyyyyyyyyyy-yyyyyyyyyyyyyyyyyyyyyyyyy
+ 
+結果
+{
+    "RESPONSES" : {
+        "RESPONSE":
+        [
+            {
+                "_STATUS" : "OK",
+                "ERA":
+                [
+                    {
+                        "_ID" : "42877",
+                        "_textvalue" : "2010's"
+                    },
+                    {
+                        "_ID" : "29483",
+                        "_textvalue" : "2000's"
+                    },
+                    {
+                        "_ID" : "29484",
+                        "_textvalue" : "1990's"
+                    },
+                    {
+                        "_ID" : "29485",
+                        "_textvalue" : "1980's"
+                    },
+                    {
+                        "_ID" : "29486",
+                        "_textvalue" : "1970's"
+                    },
+                    {
+                        "_ID" : "29487",
+                        "_textvalue" : "1960's"
+                    },
+                    {
+                        "_ID" : "29488",
+                        "_textvalue" : "1950's"
+                    },
+                    {
+                        "_ID" : "29489",
+                        "_textvalue" : "1940's"
+                    },
+                    {
+                        "_ID" : "29490",
+                        "_textvalue" : "1930's"
+                    }
+                ]
+            }
+        ]
+    }
+}

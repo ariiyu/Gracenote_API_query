@@ -1,0 +1,120 @@
+query: mood
+
+https://staging.web.cddbp.net/webapi/json/1.0/radio/fieldvalues?fieldname=RADIOMOOD&client=xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx&user=yyyyyyyyyyyyyyyyyyyyy-yyyyyyyyyyyyyyyyyy
+ 
+結果
+ 
+
+{
+    "RESPONSES" : {
+        "RESPONSE":
+        [
+            {
+                "_STATUS" : "OK",
+                "MOOD":
+                [
+                    {
+                        "_ID" : "65322",
+                        "_textvalue" : "Peaceful"
+                    },
+                    {
+                        "_ID" : "65323",
+                        "_textvalue" : "Romantic"
+                    },
+                    {
+                        "_ID" : "65324",
+                        "_textvalue" : "Sentimental"
+                    },
+                    {
+                        "_ID" : "42942",
+                        "_textvalue" : "Tender"
+                    },
+                    {
+                        "_ID" : "42946",
+                        "_textvalue" : "Easygoing"
+                    },
+                    {
+                        "_ID" : "65325",
+                        "_textvalue" : "Yearning"
+                    },
+                    {
+                        "_ID" : "42954",
+                        "_textvalue" : "Sophisticated"
+                    },
+                    {
+                        "_ID" : "42947",
+                        "_textvalue" : "Sensual"
+                    },
+                    {
+                        "_ID" : "65326",
+                        "_textvalue" : "Cool"
+                    },
+                    {
+                        "_ID" : "65327",
+                        "_textvalue" : "Gritty"
+                    },
+                    {
+                        "_ID" : "42948",
+                        "_textvalue" : "Somber"
+                    },
+                    {
+                        "_ID" : "42949",
+                        "_textvalue" : "Melancholy"
+                    },
+                    {
+                        "_ID" : "65328",
+                        "_textvalue" : "Serious"
+                    },
+                    {
+                        "_ID" : "65329",
+                        "_textvalue" : "Brooding"
+                    },
+                    {
+                        "_ID" : "42953",
+                        "_textvalue" : "Fiery"
+                    },
+                    {
+                        "_ID" : "42955",
+                        "_textvalue" : "Urgent"
+                    },
+                    {
+                        "_ID" : "42951",
+                        "_textvalue" : "Defiant"
+                    },
+                    {
+                        "_ID" : "42958",
+                        "_textvalue" : "Aggressive"
+                    },
+                    {
+                        "_ID" : "65330",
+                        "_textvalue" : "Rowdy"
+                    },
+                    {
+                        "_ID" : "42960",
+                        "_textvalue" : "Excited"
+                    },
+                    {
+                        "_ID" : "42961",
+                        "_textvalue" : "Energizing"
+                    },
+                    {
+                        "_ID" : "42945",
+                        "_textvalue" : "Empowering"
+                    },
+                    {
+                        "_ID" : "65331",
+                        "_textvalue" : "Stirring"
+                    },
+                    {
+                        "_ID" : "65332",
+                        "_textvalue" : "Lively"
+                    },
+                    {
+                        "_ID" : "65333",
+                        "_textvalue" : "Upbeat"
+                    }
+                ]
+            }
+        ]
+    }
+}
